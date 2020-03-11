@@ -1,0 +1,26 @@
+body {
+  background-color: #c7ade6;
+}
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.editor {
+  width: 700px;
+  height: 200px;
+  background-color: #e1d4f2;
+  border: 5px solid #552a89;
+  padding: 10px;
+}
+
+.preview {
+  margin-top: 10px;
+  width: 900px;
+  min-height: 200px;
+  border: 5px solid #552a89;
+  padding: 10px;
+  background-color: #e1d4f2;
+}
